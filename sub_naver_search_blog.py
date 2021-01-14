@@ -9,8 +9,8 @@ import pandas as pd
 import html
 import sub_naver_search_blog_main_content as naver_main
 
-CLIENT_ID = "L6nXKqU10Xr1MZ2G6KOl"
-CLIENT_SECRET = "GCSWcVuovx"
+CLIENT_ID = "000"
+CLIENT_SECRET = "000"
 
 NUMBER_OF_SEARCH = 100
 
